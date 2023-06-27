@@ -1,0 +1,11 @@
+{
+    "name": "kkingavio Organization Workflow",
+    "description": "kkingavio Organization CI starter workflow.",
+    "iconName": "octicon flame",
+    "categories": [
+        "Maven POM"
+    ],
+    "filePatterns": [
+        "pom.xml"
+    ]
+}
